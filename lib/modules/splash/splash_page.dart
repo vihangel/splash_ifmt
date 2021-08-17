@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:splash_ifmt/shared/app_colors.dart';
 import 'package:splash_ifmt/shared/app_images.dart';
 import 'package:splash_ifmt/shared/auth/auth_controller.dart';
-// ignore: import_of_legacy_library_into_null_safe
 
 class SplashPage extends StatelessWidget {
   const SplashPage({Key? key}) : super(key: key);
