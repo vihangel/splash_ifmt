@@ -18,5 +18,5 @@
 
 ---
 
-<img alt="Tela de inicio branca com a logo do IFMT" src="">
+<img alt="Tela de inicio branca com a logo do IFMT" src="https://github.com/Gibdike/splash_ifmt/blob/master/assets/images/Splash.png">
 
