@@ -6,7 +6,7 @@
 
    ```
    - Clone esse repositório:
-   $ git clone https://github.com/Gibdike/splash_ifmt
+   $ git clone https://github.com/vihangel/splash_ifmt
 
    - Entre no diretório:
    $ cd splash_ifmt
