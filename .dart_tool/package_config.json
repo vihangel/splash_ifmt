@@ -38,12 +38,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "crypto",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "cupertino_icons",
       "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.3",
       "packageUri": "lib/",
@@ -56,18 +50,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "ffi",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/ffi-1.1.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "file",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/file-6.1.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "flutter",
       "rootUri": "file:///I:/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -76,24 +58,6 @@
     {
       "name": "flutter_test",
       "rootUri": "file:///I:/flutter/packages/flutter_test",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "google_fonts",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/google_fonts-2.1.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "http",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.14"
-    },
-    {
-      "name": "http_parser",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -114,54 +78,6 @@
       "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
-    },
-    {
-      "name": "path_provider",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.5",
-      "packageUri": "lib/",
-      "languageVersion": "2.14"
-    },
-    {
-      "name": "path_provider_linux",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "path_provider_macos",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "path_provider_platform_interface",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_platform_interface-2.0.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "path_provider_windows",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.3",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "platform",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/platform-3.0.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "plugin_platform_interface",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.0.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "process",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/process-4.2.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.14"
     },
     {
       "name": "sky_engine",
@@ -218,25 +134,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "win32",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/win32-2.2.10",
-      "packageUri": "lib/",
-      "languageVersion": "2.13"
-    },
-    {
-      "name": "xdg_directories",
-      "rootUri": "file:///I:/flutter/.pub-cache/hosted/pub.dartlang.org/xdg_directories-0.2.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "splash_ifmt",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-10-26T20:38:36.361463Z",
+  "generated": "2021-10-26T22:26:14.360856Z",
   "generator": "pub",
   "generatorVersion": "2.14.4"
 }
