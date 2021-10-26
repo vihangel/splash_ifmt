@@ -157,7 +157,7 @@ class _LoginPageState extends State<LoginPage> {
                       //width: 1,
                       //width),
                     ),
-                    elevation: 1,
+                    elevation: 2,
                     child: Container(
                       width: 90,
                       height: 60,
@@ -169,7 +169,7 @@ class _LoginPageState extends State<LoginPage> {
                       borderRadius:
                           BorderRadius.circular(10), // if you need this
                     ),
-                    elevation: 1,
+                    elevation: 2,
                     child: Container(
                       width: 90,
                       height: 60,
@@ -181,7 +181,7 @@ class _LoginPageState extends State<LoginPage> {
                       borderRadius:
                           BorderRadius.circular(10), // if you need this
                     ),
-                    elevation: 1,
+                    elevation: 2,
                     child: Container(
                       width: 90,
                       height: 60,
