@@ -1,16 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:splash_ifmt/modules/splash/splash_page.dart';
+import 'package:flutter_modular/flutter_modular.dart';
+import 'package:splash_ifmt/app/app_widget.dart';
+
+import 'app/app_module.dart';
 
 void main() {
-  runApp(MyApp());
-}
+  WidgetsFlutterBinding.ensureInitialized();
 
-class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      home: SplashPage(),
-    );
-  }
+  runApp(ModularApp(module: AppModule(), child: AppWidget()));
 }
